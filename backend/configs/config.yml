@@ -1,0 +1,15 @@
+port: "8000"
+
+db:
+  user: "go_user"
+  host: "postgres"
+  port: 5432
+  dbname: "go_db"
+  sslmode: "disable"
+
+auth:
+  accessTokenTTL: 1m
+  refreshTokenTTL: 5m
+
+notifications:
+  newIpURL: "http://localhost:8000/new-ip/"
