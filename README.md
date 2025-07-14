@@ -30,6 +30,10 @@ cd ../frontend
 ```
 
 ```bash
+npm i
+```
+
+```bash
 npm run vite
 ```
 
