@@ -2,10 +2,7 @@ node_modules/
 bun.lockb
 package-lock.json
 yarn.lock
-.env
-.env.local
-.env.development
-.env.production
+
 
 logs/
 *.log
