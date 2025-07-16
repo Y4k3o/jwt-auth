@@ -53,3 +53,8 @@ npm run vite
 ### Заметки
 
 - Конфигурация базы данных и другие параметры задаются через .env и backend/configs/config.yml
+
+### Авторы 
+
+- Backend https://github.com/arrogantworm
+- Frontend https://github.com/Y4k3o
